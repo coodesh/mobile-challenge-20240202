@@ -76,10 +76,10 @@ A API não possui endpoint com a lista de palavras. Essa lista pode ser carregad
 ## Finalização e Instruções para a Apresentação
 
 1. Adicione o link do repositório com a sua solução no teste
-2. Adicione o link da apresentação do seu projeto no README.md.
-3. Verifique se o Readme está bom e faça o commit final em seu repositório;
-4. Envie e aguarde as instruções para seguir. Sucesso e boa sorte. =)
+2. Verifique se o Readme está bom e faça o commit final em seu repositório;
+3. Envie e aguarde as instruções para seguir. Caso o teste tenha apresentação de vídeo, dentro da tela de entrega será possível gravar após adicionar o link do repositório. Sucesso e boa sorte. =)
+
 
 ## Suporte
 
-Use a [nossa comunidade](https://discord.gg/rdXbEvjsWu) para tirar dúvidas sobre o processo ou envie uma mensagem diretamente a um especialista no chat da plataforma. 
+Para tirar dúvidas sobre o processo envie uma mensagem diretamente a um especialista no chat da plataforma. 
